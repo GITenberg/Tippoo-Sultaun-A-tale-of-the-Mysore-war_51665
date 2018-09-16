@@ -1,0 +1,28 @@
+_repo: Tippoo-Sultaun-A-tale-of-the-Mysore-war_51665
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Meadows
+    aliases:
+    - Taylor, Philip Meadows
+    - Meadows Taylor, Philip
+    birthdate: 1808
+    deathdate: 1876
+    gutenberg_agent_id: '42684'
+    url: http://www.gutenberg.org/2009/agents/42684
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Meadows_Taylor
+description: ''
+gutenberg_issued: '2016-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Tipu Sultan, Fath ''Ali, Nawab of Mysore, 1753-1799 -- Fiction'
+- GITenberg
+title: 'Tippoo Sultaun: A tale of the Mysore war'
+url: http://www.gutenberg.org/ebooks/51665
